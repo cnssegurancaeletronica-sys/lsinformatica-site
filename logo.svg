@@ -1,0 +1,15 @@
+<svg width="280" height="72" viewBox="0 0 280 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="8" width="56" height="56" rx="18" fill="#0A1B2F"/>
+  <rect x="8" y="14" width="44" height="44" rx="14" fill="url(#paint0_linear)"/>
+  <path d="M22 39V24H28V34H39V39H22Z" fill="#0A1B2F"/>
+  <path d="M42 24H36V48H42C47.5228 48 52 43.5228 52 38V34C52 28.4772 47.5228 24 42 24Z" fill="#0A1B2F"/>
+  <path d="M40 29H42C44.7614 29 47 31.2386 47 34V38C47 40.7614 44.7614 43 42 43H40V29Z" fill="#F4C542"/>
+  <text x="74" y="36" fill="#0A1B2F" font-family="Arial, sans-serif" font-size="24" font-weight="700">LS Informática</text>
+  <text x="74" y="56" fill="#5C6F82" font-family="Arial, sans-serif" font-size="13" font-weight="600">Assistência Técnica • Impressões • Papelaria</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="8" y1="14" x2="52" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD766"/>
+      <stop offset="1" stop-color="#F4C542"/>
+    </linearGradient>
+  </defs>
+</svg>
